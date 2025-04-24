@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 
 import com.example.demo.model.Collage;
-@Service
+
 public interface CollageService {
 
 	public void add(Collage collage);
